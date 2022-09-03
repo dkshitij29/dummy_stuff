@@ -1,0 +1,18 @@
+
+
+######################################### Welcome  #########################################
+
+Hello folks out there. This readme file is created for the purpose of miniproject.
+Folks who are planning to build,start mini project or just for reference, this will 
+help you out with the topic selection to solving the topics. 
+
+A mini project is a beginner way to solve a real life problem using skills which we have 
+learned or are been learned by the developer to solve the mini project problem statement.
+
+
+
+
+
+
+
+######################################### Thank you #########################################
